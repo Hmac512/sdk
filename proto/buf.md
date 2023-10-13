@@ -1,3 +1,0 @@
-# Service SDK Documentation
-
-TODO
